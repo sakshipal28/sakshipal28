@@ -32,8 +32,7 @@
 ---
 
 ### 📬 Let's Connect:
-- 🌐 LinkedIn (add link if you have one)
-- 📧 sakshi123@example.com (use real/alt email if you like)
+- 🌐 instagram @sakku.codes
 
 
 <!--
