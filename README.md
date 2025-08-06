@@ -26,13 +26,18 @@
 
 ### ✨ Highlight Projects:
 - 🔢 [Number Guessing Game](https://github.com/sakshipal28/Calculater-)
-- 📁 File Organizer (coming soon)
+- 📁 File Organizer
+- Daily MooD Tracker
+- AQUAEZ (for water purifying)(comming)
+- AI assistant(coming soon)
 - 📦 Weather App (coming soon)
+  
 
 ---
 
 ### 📬 Let's Connect:
 - 🌐 instagram @sakku.codes
+- Email sakshipanwar2028@gmail.com
 
 
 <!--
